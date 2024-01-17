@@ -17,3 +17,5 @@ The Image Search App is a web application designed to allow users to search for 
 - **JavaScript:** Interacting with the Unsplash API and handling user interactions.
 - **Unsplash API:** Fetching images based on user-entered keywords.
 
+1. Clone the repository to your local machine.
+git clone https://github.com/developer-ab/Image_Search_App
